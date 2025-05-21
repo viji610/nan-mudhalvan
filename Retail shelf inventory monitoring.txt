@@ -1,0 +1,6 @@
+Retail shelf inventory monitoring
+
+Abstract
+
+This thesis explores the automation of stock management in retail stores, with a specific focus on stores specializing in the sale of fruits and vegetables. Traditionally, these stores have relied on manual stock management methods, involving periodic inspections to maintain product availability. In response, this study proposes the application of Deep Learning techniques, particularly object counting models, to automate stock management.
+The automation process comprises two key steps. Initially, a camera positioned above a shelf of fruits and vegetables captures an image, which is processed to identify boxes containing fruits and vegetables, along with their respective categories. Afterward, a Deep Learning counting model is employed to provide an estimation of the number of objects present within each box. These estimations can then be continuously monitored or subjected to analysis to optimize store operations.
